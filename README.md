@@ -7,7 +7,7 @@
 
 ## Thesis
 
-[Download the thesis PDF](./conor-mcgowan-mechatronics-thesis.pdf)
+[Download the thesis PDF](./Final%20Project-ConorMcGowan.pdf)
 
 ## Description
 
